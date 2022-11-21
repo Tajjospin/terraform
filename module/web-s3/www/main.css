@@ -1,0 +1,11 @@
+p {
+    margin-bottom: 1.5em; 
+    /* on ajoute un espace après chaque paragraphe */
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
