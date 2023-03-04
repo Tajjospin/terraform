@@ -1,5 +1,5 @@
-# variable "AWS_ACCESS_KEY" {}
-# variable "AWS_SECRET_KEY" {}
+variable "AWS_ACCESS_KEY" {}
+variable "AWS_SECRET_KEY" {}
 variable "PREFIX" {
     type = string
     default = "taj"
