@@ -7,8 +7,8 @@ terraform {
   cloud {
     organization = "anogo"
 
-    workspaces {
-      name = "AWS_GRP_DAKAR"
+   # workspaces {
+   #   name = "AWS_GRP_DAKAR"
 
     }
     
